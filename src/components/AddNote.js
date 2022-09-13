@@ -10,7 +10,7 @@ const AddNote = () => {
         ></textarea>
         <div className='note-footer'>
             <small>200 Remaining</small>
-            <button className='save'>Save</button>
+            <button className='save'>Add Note</button>
         </div>
     </div>
   )
